@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5397f4f0-b37a-4039-886a-660a386264ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="052ef0bb-0ef4-453b-ae3c-d52eb22468cb" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/optimizer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-client" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-facebook" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-google" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/minify" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aNLIy1vbS63liIwSjgSRFXTC2O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5397f4f0-b37a-4039-886a-660a386264ec" name="Default Changelist" comment="" />
+      <created>1586571032749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586571032749</updated>
+      <workItem from="1586571047803" duration="155000" />
+      <workItem from="1586721367819" duration="13732000" />
+      <workItem from="1586825409474" duration="9803000" />
+      <workItem from="1587431493890" duration="843000" />
+      <workItem from="1587672376909" duration="9224000" />
+      <workItem from="1587949225818" duration="2824000" />
+      <workItem from="1588022327593" duration="8046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="129" key="#CLI_Interpreters" timestamp="1586722113097">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="129" key="#CLI_Interpreters/0.0.1600.860/1600.0.1600.984@0.0.1600.860" timestamp="1586722113097" />
+    <state x="392" y="88" key="#Composer" timestamp="1586571109156">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Composer/0.0.1600.860/1600.0.1600.984@0.0.1600.860" timestamp="1586571109156" />
+    <state x="2205" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1588023471291">
+      <screen x="1600" y="0" width="1600" height="984" />
+    </state>
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1600.984@0.0.1600.860" timestamp="1586736034829" />
+    <state x="2205" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.0.1600.984@1600.0.1600.984" timestamp="1588023471291" />
+    <state x="1864" y="248" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587678794331">
+      <screen x="1600" y="0" width="1600" height="984" />
+    </state>
+    <state x="1864" y="248" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860/1600.0.1600.984@1600.0.1600.984" timestamp="1587678794331" />
+    <state x="576" y="343" width="447" height="261" key="ComposerInitDialogKey" timestamp="1586722128763">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="576" y="343" width="447" height="261" key="ComposerInitDialogKey/0.0.1600.860/1600.0.1600.984@0.0.1600.860" timestamp="1586722128763" />
+    <state x="1850" y="316" key="NewPhpClassDialog" timestamp="1586825910639">
+      <screen x="1600" y="0" width="1600" height="984" />
+    </state>
+    <state x="1850" y="316" key="NewPhpClassDialog/0.0.1600.860/1600.0.1600.984@1600.0.1600.984" timestamp="1586825910639" />
+    <state x="2101" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1588022350825">
+      <screen x="1600" y="0" width="1600" height="984" />
+    </state>
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1600.984@0.0.1600.860" timestamp="1586825484223" />
+    <state x="2101" y="291" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1600.984@1600.0.1600.984" timestamp="1588022350825" />
+    <state x="2063" y="206" width="672" height="776" key="search.everywhere.popup" timestamp="1588023468836">
+      <screen x="1600" y="0" width="1600" height="984" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/1600.0.1600.984@0.0.1600.860" timestamp="1586746852217" />
+    <state x="2063" y="206" width="672" height="776" key="search.everywhere.popup/0.0.1600.860/1600.0.1600.984@1600.0.1600.984" timestamp="1588023468836" />
+  </component>
+</project>

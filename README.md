@@ -5,7 +5,8 @@ Criação de uma página de login em php:
  - Ajustar em source/config conforme
  Email em sendgrid.net
  
- sociais em: https://packagist.org/packages/league/oauth2-facebook  https://packagist.org/packages/league/oauth2-google
+ sociais em: https://packagist.org/packages/league/oauth2-facebook 
+             https://packagist.org/packages/league/oauth2-google
  
  
 define("MAIL", [

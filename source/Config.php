@@ -29,29 +29,29 @@ define("DATA_LAYER_CONFIG", [
 define("SOCIAL", [
     "facebook_page" => "WeltonCardoso.BSI",
     "facebook_author" => "WeltonCardoso.BSI",
-    "facebook_appId" => "2471406043121441",
+    "facebook_appId" => "",
     "twitter_creator" => "@cardoso_welton",
     "twitter_site" => "@cardoso_welton"
 ]);
 
 define("MAIL", [
-    "host" => "smtp.sendgrid.net",
+    "host" => "",
     "port" => "587",
-    "user" => "apikey",
-    "passwd" => "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",
+    "user" => "",
+    "passwd" => "",
     "from_name" => " Welton V. Cardoso",
     "from_email" => "weltonvianacardoso@gmail.com"
 ]);
 
 define("FACEBOOK_LOGIN", [
-    'clientId'          => "2471406043121441",
-    'clientSecret'      => "c7d7501176ff4e4603caa559b32cc8a5",
+    'clientId'          => "",
+    'clientSecret'      => "",
     'redirectUri'       => SITE["root"]."/facebook",
     'graphApiVersion'   => "v6.0",
 ]);
 
 define("GOOGLE_LOGIN", [
-    "clientId" => "718353652537-c2hc8stn3iph08gi5buncnh7s3g05lmo.apps.googleusercontent.com",
-    "clientSecret" => "a709wy-jHEUF5Yt5A4VS0bFQ",
+    "clientId" => "",
+    "clientSecret" => "",
     "redirectUri" => SITE["root"]."/google"
 ]);

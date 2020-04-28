@@ -31,7 +31,7 @@ $router->post("/reset", "Auth:reset", "auth.reset");
  */
 $router->group(null);
 $router->get("/facebook", "Auth:facebook", "auth.facebook");
-$router->get("/google", "Auth:google", "auth:google");
+$router->get("/google", "Auth:google", "auth.google");
 
 /**
  *  PROFILE
